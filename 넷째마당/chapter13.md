@@ -12,12 +12,12 @@
  + 확인창 출력 : confirm(메시지)
  
  ## 이름 받아서 콘솔 창에 표시하기
-``` <body>
+<body>
   <script>
    var name=promt("이름을 입력하세요.");
    console.log(name + "님, 환영합니다.");
   </script>
- </body> ```
+ </body> 
   
  ## 자바스크립트 스크립트 소스 작성할 때 지켜야 할 규칙
  + 코드를 보기 좋게 들여쓰기 합니다.
